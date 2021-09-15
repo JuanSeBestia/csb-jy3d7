@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://juansebestia.github.io/csb-jy3d7/static/js/main.44b74a02.chunk.js",
-    "main.js.map": "https://juansebestia.github.io/csb-jy3d7/static/js/main.44b74a02.chunk.js.map",
-    "runtime-main.js": "https://juansebestia.github.io/csb-jy3d7/static/js/runtime-main.aef0c649.js",
-    "runtime-main.js.map": "https://juansebestia.github.io/csb-jy3d7/static/js/runtime-main.aef0c649.js.map",
-    "static/js/2.09173491.chunk.js": "https://juansebestia.github.io/csb-jy3d7/static/js/2.09173491.chunk.js",
-    "static/js/2.09173491.chunk.js.map": "https://juansebestia.github.io/csb-jy3d7/static/js/2.09173491.chunk.js.map",
-    "index.html": "https://juansebestia.github.io/csb-jy3d7/index.html",
-    "static/js/2.09173491.chunk.js.LICENSE.txt": "https://juansebestia.github.io/csb-jy3d7/static/js/2.09173491.chunk.js.LICENSE.txt"
+    "main.js": "https://.github.io/csb-jy3d7/static/js/main.44b74a02.chunk.js",
+    "main.js.map": "https://.github.io/csb-jy3d7/static/js/main.44b74a02.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-jy3d7/static/js/runtime-main.c54c451a.js",
+    "runtime-main.js.map": "https://.github.io/csb-jy3d7/static/js/runtime-main.c54c451a.js.map",
+    "static/js/2.134ca0a1.chunk.js": "https://.github.io/csb-jy3d7/static/js/2.134ca0a1.chunk.js",
+    "static/js/2.134ca0a1.chunk.js.map": "https://.github.io/csb-jy3d7/static/js/2.134ca0a1.chunk.js.map",
+    "index.html": "https://.github.io/csb-jy3d7/index.html",
+    "static/js/2.134ca0a1.chunk.js.LICENSE.txt": "https://.github.io/csb-jy3d7/static/js/2.134ca0a1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aef0c649.js",
-    "static/js/2.09173491.chunk.js",
+    "static/js/runtime-main.c54c451a.js",
+    "static/js/2.134ca0a1.chunk.js",
     "static/js/main.44b74a02.chunk.js"
   ]
 }
